@@ -3,15 +3,15 @@ Dev News
 <hr>
 
 ## Description
-
+API fetch on the Hacker News API with server side pagination. User can remove fetched stories from the UI.
 
 
 <hr>
 
- <!-- ![Main View](https://github.com/miadugas/svelte_ecomm/blob/main/black_mirror.png) -->
+ ![Main View](https://github.com/miadugas/devnews/blob/main/img/dev_news.png)
 
 ## Technology Used
-
+React, useReducer & Context API
 
 
 <hr>
