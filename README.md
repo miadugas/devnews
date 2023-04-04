@@ -11,7 +11,7 @@ API fetch on the Hacker News API with server side pagination. User can remove fe
  ![Main View](https://github.com/miadugas/devnews/blob/main/img/dev_news.png)
 
 ## Technology Used
-React, useReducer & Context API
+ReactJS, NodeJs & Context API
 
 
 <hr>
